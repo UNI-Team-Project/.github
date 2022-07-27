@@ -5,5 +5,3 @@
 </div>
 
 ![image](https://github.com/UNI-Team-Project/.github/blob/main/profile/logo.png?raw=true)
-
-----------
