@@ -4,6 +4,6 @@
     </a>  
 </div>
 
-![image](https://user-images.githubusercontent.com/53253298/178962809-6fe323b9-49c9-4881-9496-3230f0d2cca2.png)
+![image](https://github.com/UNI-Team-Project/.github/blob/main/profile/logo.png?raw=true)
 
 ----------
